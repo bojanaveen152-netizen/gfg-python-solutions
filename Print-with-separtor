@@ -1,0 +1,6 @@
+a = input()
+b = input()
+separator = input()
+
+c=str(a)+separator+b
+print(c)
